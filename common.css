@@ -1,0 +1,14 @@
+body{
+   
+    margin: 0;
+}
+.wrapper{
+    background-color: green;
+    height: 100px;
+   
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.width25{
+    
+}
